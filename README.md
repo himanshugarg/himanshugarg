@@ -10,7 +10,7 @@ Here are some ideas to get you started about me:
 - 🌱 I’m currently learning more about the web (series).
 - 👯 I’m looking to collaborate on projects that don't ask for a lot (of collaboration).
 - 🤔 I’m looking for help with growing (rich).
-- 💬 Ask me about the best of the web (series).
+- 💬 Ask me about the worst of the web (series).
 - 📫 How to reach me: hgarg@acm.org
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I am not affiliated to the helpful organizations whose repos you see my comments in. 
+- ⚡ Fun fact: I am not affiliated to the organizations whose repos you see my comments in.
