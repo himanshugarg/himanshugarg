@@ -13,4 +13,4 @@ Here are some ideas to get you started on me:
 - 💬 Ask me about the worst of the web (series).
 - 📫 How to reach me: hgarg@acm.org
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I am not affiliated to the organizations whose repos you see my comments in.
+- ⚡ Fun fact: I am not affiliated to the organizations whose repos I comment in.
