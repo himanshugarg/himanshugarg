@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 
+
 
 <!--
 **himanshugarg/himanshugarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+Here are some ideas to get you started about me:
+
+- 🔭 I’m currently working on my resume.
+- 🌱 I’m currently learning more about the web (series).
+- 👯 I’m looking to collaborate on projects that don't require a lot of collaboration.
+- 🤔 I’m looking for help with growing rich.
+- 💬 Ask me about the best of the web (series).
+- 📫 How to reach me: hgarg@acm.org
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I am not affiliated to the organizations whose repos you see my comments in. 
