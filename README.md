@@ -1,9 +1,9 @@
 ### Hi there 👋 
 
-
+- ⚡ Fun fact: I am not affiliated to the organizations whose repos I comment in!
 <!--
 **himanshugarg/himanshugarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 Here are some ideas to get you started on me:
 
 - 🔭 I’m currently working on my [README](https://github.com/himanshugarg/himanshugarg/blob/main/README.md).
@@ -13,4 +13,5 @@ Here are some ideas to get you started on me:
 - 💬 Ask me about the worst of the web (series).
 - 📫 How to reach me: hgarg@acm.org
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I am not affiliated to the organizations whose repos I comment in.
+
+-->
