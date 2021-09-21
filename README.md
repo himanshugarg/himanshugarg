@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- ⚡ Fun fact: I am not affiliated to the organizations whose repos I comment in!
+- ⚡ Fun fact: I am not committed to the organizations whose repos I commit in!
 <!--
 **himanshugarg/himanshugarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
