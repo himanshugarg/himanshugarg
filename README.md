@@ -1,7 +1,7 @@
 ### Hi there 👋 
-
-- ⚡ Fun fact: I am not committed to the organizations whose repos I commit in!
 <!--
+- ⚡ Fun fact: I am not committed to the organizations whose repos I commit in!
+
 **himanshugarg/himanshugarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started on me:
