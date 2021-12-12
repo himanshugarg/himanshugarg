@@ -1,4 +1,4 @@
-Here to make a **diff** 😄
+Making a **diff** (in my profile 😄)
 <!--
 - ⚡ Fun fact: I am not committed to the organizations whose repos I commit in!
 
