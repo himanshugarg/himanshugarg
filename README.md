@@ -1,5 +1,6 @@
-Making a **diff** (in my profile 😄)
+Creating history (in a github repo 😄)
 <!--
+Making a **diff** (in my profile 😄)
 - ⚡ Fun fact: I am not committed to the organizations whose repos I commit in!
 
 **himanshugarg/himanshugarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
