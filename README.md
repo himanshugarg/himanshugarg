@@ -1,5 +1,5 @@
-# Creating History^
-  ^ (in a github repo 😄)
+# Ex-Apple, Ex-Facebook^
+  ^ (user 😄)
 <!--
 Making a **diff** (in my profile 😄)
 - ⚡ Fun fact: I am not committed to the organizations whose repos I commit in!
