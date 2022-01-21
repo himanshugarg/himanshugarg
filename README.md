@@ -1,4 +1,4 @@
-# Ex-Apple, Ex-Facebook^
+# Ex-Apple^, Ex-Facebook^
   ^ (user 😄)
 <!--
 Making a **diff** (in my profile 😄)
