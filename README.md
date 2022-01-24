@@ -1,6 +1,13 @@
+When I knew just one language,
+I made only grammar errors.
+
+Now that I know some more,
+I also make punctuation errors 😆
+
+<!--
 # Ex-Apple^, Ex-Facebook^
   ^ (user 😄)
-<!--
+
 Making a **diff** (in my profile 😄)
 - ⚡ Fun fact: I am not committed to the organizations whose repos I commit in!
 
