@@ -1,5 +1,5 @@
 When I knew just one language,
-I made only grammar errors.
+I made only syntax errors.
 
 Now that I know some more,
 I also make punctuation errors 😆
